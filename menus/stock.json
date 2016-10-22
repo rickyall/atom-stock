@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle stock",
+        "command": "stock:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "stock",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "stock:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
