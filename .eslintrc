@@ -10,6 +10,14 @@
         "operator-linebreak": ["error", "after"]
     },
      "globals": {
-        "atom": true
+        "atom": true,
+        "describe": true,
+        "beforeEach": true,
+        "it": true,
+        "expect": true,
+        "waitsForPromise": true,
+        "runs": true,
+        "jasmine": true,
+        "HTMLDivElement": true
     }
 }

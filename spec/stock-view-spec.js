@@ -1,6 +1,6 @@
 'use babel';
 
-import StockView from '../lib/stock-view';
+// import StockView from '../lib/stock-view';
 
 describe('StockView', () => {
   it('has one valid test', () => {

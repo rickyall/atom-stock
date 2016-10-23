@@ -1,6 +1,6 @@
 'use babel';
 
-import Stock from '../lib/stock';
+// import Stock from '../lib/stock';
 
 // Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
 //
